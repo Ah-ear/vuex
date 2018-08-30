@@ -6,7 +6,7 @@
       <button
         :disabled="!product.inventory"
         @click="addProductToCart(product)">
-        Add to cart
+        加入购物车
       </button>
     </li>
   </ul>
