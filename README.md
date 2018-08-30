@@ -1,3 +1,4 @@
+
 # Vuex [![Build Status](https://circleci.com/gh/vuejs/vuex/tree/dev.png?style=shield)](https://circleci.com/gh/vuejs/vuex)
 
 > Centralized State Management for Vue.js.
@@ -27,3 +28,5 @@ $ npm run dev # serve examples at localhost:8080
 ## License
 
 [MIT](http://opensource.org/licenses/MIT)
+# vuex
+vuex相关demo
