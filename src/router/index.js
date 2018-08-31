@@ -11,14 +11,14 @@ Vue.use(Router)
 export default new Router({
   routes: [
   	{
-      path: '/',
+      path: '/qqIndex',
       name: 'qqIndex',
       component: qqIndex
     },
   	{
-      path: '/index',
+      path: '/',
       name: 'index',
-      component: Todo
+      component: index
     },
   	{
       path: '/Todo',

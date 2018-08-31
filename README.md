@@ -1,8 +1,11 @@
 # vuex
 
 > A Vue.js project
+> 内容：todoMVC例子、qq音乐
+> 菜鸟一枚，最近在研究vue的全家桶，一点一点渗透，不喜勿喷哈，还在开发当中~
 
-## Build Setup
+
+## 安装
 
 ``` bash
 # install dependencies
@@ -14,8 +17,5 @@ npm run dev
 # build for production with minification
 npm run build
 
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+##预览
+![首页](https://github.com/Ah-ear/vuex/tree/master/src/assets/readme/index.png)
